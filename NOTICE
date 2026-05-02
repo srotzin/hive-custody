@@ -1,0 +1,8 @@
+@hivecivilization/hive-custody
+Copyright 2026 Stephen A. Rotzin
+
+Licensed under Apache License, Version 2.0.
+
+Third-party dependencies:
+- @noble/ed25519 (MIT) — Paul Miller
+- @noble/hashes (MIT) — Paul Miller
